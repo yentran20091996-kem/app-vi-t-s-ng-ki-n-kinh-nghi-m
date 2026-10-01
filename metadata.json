@@ -1,0 +1,6 @@
+{
+  "name": "SKKN 2026 PRO - Trợ Lý Viết Sáng Kiến Kinh Nghiệm AI",
+  "description": "Nền tảng AI thế hệ mới hỗ trợ giáo viên nghiên cứu khoa học sư phạm, lập dàn ý, soạn giải pháp sáng kiến kinh nghiệm, mô phỏng hội đồng chấm thi và thẩm định hồ sơ chuyên môn chuẩn 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
